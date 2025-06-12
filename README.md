@@ -1,4 +1,4 @@
-Edited by Dnyaneshwari Kalkekar
+Edited by Dnyaneshwari Kalkekar.
 
 Node.js is an open-source, cross-platform JavaScript runtime environment.
 
